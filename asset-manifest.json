@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/art-of-betting/static/css/main.3263a96e.css",
-    "main.js": "/art-of-betting/static/js/main.a53ee574.js",
+    "main.js": "/art-of-betting/static/js/main.0045d45d.js",
     "service-worker.js": "/art-of-betting/service-worker.js",
     "index.html": "/art-of-betting/index.html",
     "main.3263a96e.css.map": "/art-of-betting/static/css/main.3263a96e.css.map",
-    "main.a53ee574.js.map": "/art-of-betting/static/js/main.a53ee574.js.map"
+    "main.0045d45d.js.map": "/art-of-betting/static/js/main.0045d45d.js.map"
   },
   "entrypoints": [
     "static/css/main.3263a96e.css",
-    "static/js/main.a53ee574.js"
+    "static/js/main.0045d45d.js"
   ]
 }
